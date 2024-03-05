@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @m15hel
 - Hi
-- Bye
 - Hi
+- HI
+- HI
 
 <!---
 m15hel/m15hel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
